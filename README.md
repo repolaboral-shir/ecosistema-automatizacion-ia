@@ -13,11 +13,10 @@ Proyecto Final — IA Automation
 
 [Ver Video Demo](https://drive.google.com/file/d/1R5AaECPFiOQhbsGp7psJTJKEW4AAnJeO/view?usp=sharing)
 
-Los enlaces públicos a la Base de Datos y al Dashboard de Control se encuentran incluidos en la documentación PDF.# ecosistema-automatizacion-ia
-
 ## Enlaces del sistema
 
-Los siguientes enlaces públicos también se encuentran documentados en el PDF de la entrega final:
+Los enlaces se encuentran documentados en el PDF y se incluyen aquí para facilitar el acceso:
 
-- **Dashboard de Control (Notion - Shared View):** [Abrir Dashboard de KPIs](PEGAR_LINK_DASHBOARD)
-- **Base de Datos Consultas IA (modo lectura):** [Abrir Consultas IA](PEGAR_LINK_CONSULTAS)
+- **Dashboard de Control (Notion - Shared View):** [Abrir Dashboard de KPIs](https://app.notion.com/p/5a0ef53eaf4c4ca6ac1c0ccc6f33652a?v=8a6af54d14554f4eb01e03a70d176f7b&source=copy_link)
+
+- **Base de Datos Consultas IA (modo lectura):** [Abrir Consultas IA](https://app.notion.com/p/3d20ce6d86ca803a8f0bfcfb68652b2c?v=3d20ce6d86ca80c8beb6000ca3e44a4b&source=copy_link)
